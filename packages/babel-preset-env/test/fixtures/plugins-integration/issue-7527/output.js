@@ -24,7 +24,7 @@ function (_Date) {
   function MyDate(time) {
     _classCallCheck(this, MyDate);
 
-    return _possibleConstructorReturn(this, _getPrototypeOf(MyDate).call(this, time));
+    return _possibleConstructorReturn(this, (MyDate.__proto__ || Object.getPrototypeOf(MyDate)).call(this, time));
   }
 
   return MyDate;
