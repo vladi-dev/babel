@@ -1,5 +1,3 @@
-require("core-js/modules/es.typed-array.includes");
-
 require("core-js/modules/es.array.includes");
 
 require("core-js/modules/es.promise");

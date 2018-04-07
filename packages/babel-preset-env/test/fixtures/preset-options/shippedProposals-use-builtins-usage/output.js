@@ -1,12 +1,10 @@
 "use strict";
 
-require("core-js/modules/es.typed-array.for-each");
+require("core-js/modules/web.dom-collections.for-each");
 
 require("core-js/modules/es.array.for-each");
 
 require("core-js/modules/es.object.get-own-property-descriptor");
-
-require("core-js/modules/es.typed-array.filter");
 
 require("core-js/modules/es.array.filter");
 
@@ -14,13 +12,9 @@ require("core-js/modules/es.array.concat");
 
 require("core-js/modules/es.object.define-property");
 
-require("core-js/modules/es.typed-array.index-of");
-
 require("core-js/modules/es.array.index-of");
 
 require("core-js/modules/web.dom-collections.iterator");
-
-require("core-js/modules/es.typed-array.iterator");
 
 require("core-js/modules/es.array.iterator");
 

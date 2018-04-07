@@ -1,6 +1,4 @@
-import "core-js/modules/es.typed-array.find";
 import "core-js/modules/es.array.find";
-import "core-js/modules/es.typed-array.includes";
 import "core-js/modules/es.array.includes";
 var arrayInstance = [];
 var inclidesStr = "includes";
